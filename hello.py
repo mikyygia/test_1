@@ -1,3 +1,5 @@
 print("hello world")
 print("cats are cool")
 print('dogs are cool')
+print("some girl just asked me to borrow a mac charger lol in the library")
+print("hope she doesn't steal it-- !!")
